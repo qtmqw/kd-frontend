@@ -1,6 +1,5 @@
 import React from 'react'
-import { Container } from 'react-bootstrap'
-import Alert from 'react-bootstrap/Alert';
+import { Container, Alert } from 'react-bootstrap'
 
 const Groz = () => {
   return (
