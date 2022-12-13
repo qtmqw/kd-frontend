@@ -1,6 +1,8 @@
 import React from 'react'
 import { Container, Alert } from 'react-bootstrap'
 
+// funkc
+
 const Groz = () => {
   return (
     <Container fluid className='max-w-[2000px]'>
@@ -9,6 +11,7 @@ const Groz = () => {
         <div className='w-full mb-4 bg-gray-300 p-10 rounded-lg'>
           <h1 className='font-bold mx-auto md:text-4xl sm:text-3xl text-3xl py-2 mb-5'>Pieslēgties</h1>
           <form>
+            
             <Alert variant='primary'>
               Grozā nav ievietos neviena prece!
             </Alert>
